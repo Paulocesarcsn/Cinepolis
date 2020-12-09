@@ -111,7 +111,8 @@ class _TelaVisualizarFilmesState extends State<TelaVisualizarFilmes> {
             child: ListBody(
               children: <Widget>[
                 Text('\nPaulo Cesar\n'
-                    'Marcos Erick'),
+                    'Marcos Erick\n'
+                    'Alexandre Luna'),
               ],
             ),
           ),
